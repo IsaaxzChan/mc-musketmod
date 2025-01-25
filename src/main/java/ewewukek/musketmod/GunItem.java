@@ -500,7 +500,7 @@ public abstract class GunItem extends Item {
 
     public static boolean isLoaded(ItemStack stack) {
         Boolean loaded = stack.get(LOADED);
-        return loaded != null && loaded;
+        return stack.hasTag() && stack.getOrCreateTag().getByte("loaded") != 0;
     }
 
     public static void setLoaded(ItemStack stack, boolean loaded) {
