@@ -524,3 +524,4 @@ public abstract class GunItem extends Item {
         }
     }
 }
+//CREDIT TO TECHTHECODER (techtastic) for providing code that fixes the creative block pick issue, feel free to take this and use gradlew to build it :D
