@@ -1,6 +1,7 @@
 ### Musket Mod
 
 Adds craftable flintlock weapons.
+(fixed the creative block pick issue caused by empty tag creation on a right clicked item) credit goes to a person known as tech hehe
 
 [Download from CurseForge](https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod/files/all)\
 [Download from modrinth](https://modrinth.com/mod/ewewukeks-musket-mod/versions)
